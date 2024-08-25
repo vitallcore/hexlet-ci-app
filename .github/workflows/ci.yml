@@ -28,4 +28,4 @@ jobs:
       run: npm test
 
     - name: Hello from Hexlet
-      uses: hexlet-components/hello-from-hexlet-action@v1
+      uses: hexlet-components/hello-from-hexlet-action
